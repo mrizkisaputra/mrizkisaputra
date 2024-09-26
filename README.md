@@ -14,5 +14,5 @@ I'm interested in Web dev and devops.
 
 <br>
 
-<h1 align="center">Language | Framework | Tools</h1>
+<h1 align="center">Language | Framework | Tools</h1>  
 [![My Skills](https://skillicons.dev/icons?i=go,kotlin,java,js,html,css,mysql,jquery,tailwind,docker,git,idea)](https://skillicons.dev)

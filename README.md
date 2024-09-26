@@ -12,5 +12,4 @@
 I'am a Software Developer based in Palembang, specializing in Web Backend development, particularly with Go.
 I'm interested in Web dev and devops.  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrizkisaputra)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrizkisaputra&layout=compact)
+[![My Skills](https://skillicons.dev/icons?i=go,kotlin,java,js,docker,sql,git)](https://skillicons.dev)

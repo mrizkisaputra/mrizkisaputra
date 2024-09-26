@@ -12,4 +12,7 @@
 I'am a Software Developer based in Palembang, specializing in Web Backend development, particularly with Go.
 I'm interested in Web dev and devops.  
 
-[![My Skills](https://skillicons.dev/icons?i=go,kotlin,java,js,docker,sql,git)](https://skillicons.dev)
+<br>
+
+<h1 align="center">Language | Framework | Tools</h1>
+[![My Skills](https://skillicons.dev/icons?i=go,kotlin,java,js,html,css,mysql,jquery,tailwind,docker,git,idea)](https://skillicons.dev)

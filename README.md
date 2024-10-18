@@ -10,14 +10,14 @@
 </h1>
 
 <p align="center">
-  I'am a Software Developer based in Palembang, specializing in Web Backend development, particularly with Go.
-I'm interested in Web dev and devops.
+  I'am a freshgraduate informatic engineering, specializing in Web Backend development, particularly with Go.
+I'm interested in Web dev, devops and computer network.
 </p>  
 
 <br>
 
-<h1 align="center">Languages | Frameworks | Tools</h1>
+<!-- <h1 align="center">Languages | Frameworks | Tools</h1>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=go,kotlin,java,js,html,css,mysql,jquery,tailwind,docker,git,idea,androidstudio)](https://skillicons.dev)"/>
-</div>
+     <img src="https://skillicons.dev/icons?i=go,kotlin,java,js,html,css,mysql,jquery,tailwind,docker,git,idea,androidstudio)](https://skillicons.dev)"/> -->
+</div> -->

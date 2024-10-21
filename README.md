@@ -14,10 +14,8 @@
 I'm interested in Web dev, devops and computer network.
 </p>  
 
-<br>
-
 <!-- <h1 align="center">Languages | Frameworks | Tools</h1>
 
 <div align="center">
-     <img src="https://skillicons.dev/icons?i=go,kotlin,java,js,html,css,mysql,jquery,tailwind,docker,git,idea,androidstudio)](https://skillicons.dev)"/> -->
+     <img src="https://skillicons.dev/icons?i=go,kotlin,java,js,html,css,mysql,jquery,tailwind,docker,git,idea,androidstudio)](https://skillicons.dev)"/>
 </div> -->
